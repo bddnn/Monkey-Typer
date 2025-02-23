@@ -75,7 +75,7 @@ MonkeyTyper/
 - **SFML**: Library for rendering graphics and handling input.
 
 ## Author
-Created by [Your Name].
+Created by bddnn.
 
 ## License
 This project is licensed under the MIT License.
